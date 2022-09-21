@@ -1,0 +1,14 @@
+{
+  "name": "eye-movement-exercise",
+  "version": "1.0.0",
+  "description": "Eye Movement",
+  "main": "eyes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eye"
+  ],
+  "author": "Edar Tlis",
+  "license": "MIT"
+}
