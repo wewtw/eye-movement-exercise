@@ -8,4 +8,4 @@ https://wewtw.github.io/eye-movement-exercise/
 
 #MIT License
 
-Copyright (c) 2022 Edar
+Copyright (c) 2022 Edar Tlis
